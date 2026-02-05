@@ -1,47 +1,42 @@
-# Hi, I'm Valentin 👋
+# Valentin
 
-**4th-Year Automation & Computing Student at Politehnica University of Timișoara** **Certified Expert Frontend Developer (Skillbrain)**
+Frontend developer focused on building responsive, performant web applications with clean code and attention to user experience. Currently studying at Politehnica University of Timișoara.
 
-I bridge engineering rigor with thoughtful design, building applications that are both technically excellent and delightful to use. I work across the full stack—from responsive React interfaces to robust .NET backends—with a focus on clean code and continuous improvement.
+## About
 
----
+I specialize in crafting intuitive interfaces and scalable frontend architectures. My focus is on writing maintainable code, optimizing performance, and collaborating effectively with backends and design teams to ship polished products.
 
-### 🛠 Tech Stack
+## Tech Stack
 
-**Frontend**
-* **Core:** React, TypeScript, JavaScript (ES6+)
-* **Styling & Tooling:** Tailwind CSS, Vite, HTML5, CSS3, SCSS
-* **State Management:** Context API / Redux
+**Core**  
+React, TypeScript, JavaScript, HTML5, CSS3
 
-**DevOps & Tools**
-* **Current Focus:** Docker & Containerization
-* **Version Control:** Git, GitHub
-* **OS:** Linux, Windows
+**Frameworks & Libraries**  
+Next.js, Tailwind CSS, responsive design
 
----
+**Tools & Workflow**  
+Git, modern development tooling, component-driven architecture
 
-### 🚀 What I Do
+## What I Do
 
-* **Build production-ready React applications** using modern tooling like Vite and TypeScript.
-* **Design scalable architectures**, applying the engineering principles learned at UPT (like my Order Management System with DDD).
-* **Optimize performance & UX**, ensuring applications are fast and accessible.
-* **Bridge the gap between Dev & Ops**, currently learning to automate deployments and manage infrastructure.
+- Build responsive React applications with modern tooling and best practices
+- Write clean, maintainable TypeScript/JavaScript code
+- Optimize frontend performance and user experience
+- Design and implement reusable component systems
+- Collaborate with backend teams and designers to deliver cohesive products
 
----
+## Currently Learning
 
-### 📚 Currently Learning
+Advanced performance optimization, state management patterns, modern frontend architecture
 
-* **DevOps:** Docker, CI/CD pipelines, and cloud infrastructure best practices.
-* **Advanced System Design:** Applying academic theory to real-world software scale.
+## Let's Connect
 
----
+I'm always interested in discussing interesting projects, technical challenges, or collaboration opportunities.
 
-### 🤝 Let's Connect
-
-I'm always interested in discussing technical challenges, innovative projects, or collaboration opportunities.
-
-* **Email:** [ardeleanvalentin490@yahoo.com](mailto:ardeleanvalentin490@yahoo.com)
-* **LinkedIn:** [linkedin.com/in/valentin-ardelean](www.linkedin.com/in/valentin-ardelean-dev) * **Location:** Timișoara, Romania 🇷🇴
+- **Email** — [valentin@example.com](mailto:ardeleanvalentin490@yahoo.com)
+- **GitHub** — [github.com/Valentin222259](https://github.com/Valentin222259)
+- **LinkedIn** — [linkedin.com/in/valentin-ardelean-dev](https://www.linkedin.com/in/valentin-ardelean-dev/)
 
 ---
-*Crafting software with precision, engineering, and care.*
+
+Crafting software with precision and care.
