@@ -1,6 +1,6 @@
 # Hi, I'm Valentin 👋
 
-**4th-Year Automation & Computing Student @ Politehnica University of Timișoara** **Certified Expert Frontend Developer (Skillbrain)**
+**4th-Year Automation & Computing Student at Politehnica University of Timișoara** **Certified Expert Frontend Developer (Skillbrain)**
 
 I bridge engineering rigor with thoughtful design, building applications that are both technically excellent and delightful to use. I work across the full stack—from responsive React interfaces to robust .NET backends—with a focus on clean code and continuous improvement.
 
