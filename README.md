@@ -33,7 +33,7 @@ Advanced performance optimization, state management patterns, modern frontend ar
 
 I'm always interested in discussing interesting projects, technical challenges, or collaboration opportunities.
 
-- **Email** — [valentin@example.com](mailto:ardeleanvalentin490@yahoo.com)
+- **Email** — [ardeleanvalentin490@yahoo.com](mailto:ardeleanvalentin490@yahoo.com)
 - **GitHub** — [github.com/Valentin222259](https://github.com/Valentin222259)
 - **LinkedIn** — [linkedin.com/in/valentin-ardelean-dev](https://www.linkedin.com/in/valentin-ardelean-dev/)
 
