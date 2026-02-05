@@ -1,103 +1,52 @@
-<!-- ALTERNATIVE: Premium HTML Version (for display or custom rendering) -->
+# Hi, I'm Valentin 👋
 
-# 🎯 Valentin's Portfolio – Premium Edition
+**4th-Year Automation & Computing Student @ Politehnica University of Timișoara** **Certified Expert Frontend Developer (Skillbrain)**
 
-This is an enhanced markdown README designed for maximum impact on GitHub.
-
----
-
-## ✨ Key Improvements Made
-
-### **Visual Hierarchy**
-- Clear section structure with descriptive subtitles
-- Emoji usage is strategic (not overwhelming)
-- Whitespace separates concepts effectively
-
-### **Content Organization**
-- Moved "About Me" to the top for immediate context
-- Grouped tech stack by domain (Frontend, Backend, DevOps)
-- Added "What Drives Me" section—shows philosophy, not just skills
-- Included education context (UPT 4th year)
-
-### **Engagement Elements**
-- GitHub stats displayed prominently with dual visualizations
-- "Let's Connect" section encourages collaboration
-- Personal touch in the footer ("Engineering + Design")
-
-### **Professional Tone**
-- Removed ALL-CAPS sections for sophistication
-- Added context to tech skills ("Continuous Growth", "Learning Path")
-- Emphasized your unique value: **bridge between engineering and UX**
+I bridge engineering rigor with thoughtful design, building applications that are both technically excellent and delightful to use. I work across the full stack—from responsive React interfaces to robust .NET backends—with a focus on clean code and continuous improvement.
 
 ---
 
-## 💾 How to Use This
+### 🛠 Tech Stack
 
-1. **Copy the markdown version** (from my first file) into your GitHub README.md
-2. **Replace your current README** with this updated version
-3. **Customize as needed:**
-   - Add links to your best projects
-   - Include a "Featured Projects" section showcasing 2-3 key repos
-   - Add socials if desired (LinkedIn, Twitter, portfolio website)
+**Frontend**
+* **Core:** React, TypeScript, JavaScript (ES6+)
+* **Styling & Tooling:** Tailwind CSS, Vite, HTML5, CSS3, SCSS
+* **State Management:** Context API / Redux
 
----
+**Backend & Engineering**
+* **Technologies:** C#, .NET, Node.js basics
+* **Architecture:** Domain-Driven Design (DDD) principles, RESTful APIs
+* **Databases:** SQL Server, Database Optimization
 
-## 🚀 Optional Next Steps
-
-### Add a Featured Projects Section
-```markdown
-## 🏆 Featured Projects
-
-### [Project Name](link-to-repo)
-Brief, impactful description of what it does and why it matters.
-**Tech:** React, TypeScript, Tailwind CSS
-
-### [Another Project](link-to-repo)
-What problem does it solve? What makes it special?
-**Tech:** C#, .NET, Docker
-```
-
-### Add a Timeline Section
-```markdown
-## 📈 Journey
-
-- **2024** — Diving deep into DevOps; mastering Docker & CI/CD
-- **2023** — Specialized in frontend architecture; shipped 5+ production apps
-- **2022** — Discovered React; fell in love with building interfaces
-```
-
-### Add Social Links
-```markdown
-📬 **Connect With Me**
-- [LinkedIn](your-linkedin)
-- [Portfolio](your-website)
-- [Twitter](your-handle)
-```
+**DevOps & Tools**
+* **Current Focus:** Docker & Containerization
+* **Version Control:** Git, GitHub
+* **OS:** Linux, Windows
 
 ---
 
-## 🎨 Design Philosophy Behind This README
+### 🚀 What I Do
 
-**Minimalist + Purposeful**
-- No unnecessary graphics or clutter
-- Each section has a clear function
-- Strong typography (bold/emphasis) guides the eye
-- Badges are clean and informative
-
-**Authentic Voice**
-- Your story comes through (engineering + design)
-- Shows growth mindset (DevOps learning)
-- Demonstrates values (technical excellence + UX)
+* **Build production-ready React applications** using modern tooling like Vite and TypeScript.
+* **Design scalable architectures**, applying the engineering principles learned at UPT (like my Order Management System with DDD).
+* **Optimize performance & UX**, ensuring applications are fast and accessible.
+* **Bridge the gap between Dev & Ops**, currently learning to automate deployments and manage infrastructure.
 
 ---
 
-## 📝 Final Tips
+### 📚 Currently Learning
 
-✅ **Keep it current** — Update GitHub stats and projects quarterly  
-✅ **Be specific** — "5+ production React apps" > "experienced with React"  
-✅ **Show personality** — The "💡 What Drives Me" section is gold  
-✅ **Link everything** — Make it easy for recruiters/collaborators to explore  
+* **DevOps:** Docker, CI/CD pipelines, and cloud infrastructure best practices.
+* **Advanced System Design:** Applying academic theory to real-world software scale.
 
 ---
 
-Baftă! 🚀 Your README now tells a complete story of who you are as a developer.
+### 🤝 Let's Connect
+
+I'm always interested in discussing technical challenges, innovative projects, or collaboration opportunities.
+
+* **Email:** [ardeleanvalentin490@yahoo.com](mailto:ardeleanvalentin490@yahoo.com)
+* **LinkedIn:** [linkedin.com/in/valentin-ardelean](www.linkedin.com/in/valentin-ardelean-dev) * **Location:** Timișoara, Romania 🇷🇴
+
+---
+*Crafting software with precision, engineering, and care.*
