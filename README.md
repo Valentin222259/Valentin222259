@@ -13,11 +13,6 @@ I bridge engineering rigor with thoughtful design, building applications that ar
 * **Styling & Tooling:** Tailwind CSS, Vite, HTML5, CSS3, SCSS
 * **State Management:** Context API / Redux
 
-**Backend & Engineering**
-* **Technologies:** C#, .NET, Node.js basics
-* **Architecture:** Domain-Driven Design (DDD) principles, RESTful APIs
-* **Databases:** SQL Server, Database Optimization
-
 **DevOps & Tools**
 * **Current Focus:** Docker & Containerization
 * **Version Control:** Git, GitHub
