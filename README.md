@@ -14,13 +14,6 @@ I specialize in full-stack development and modern web architectures. Recently, m
 **Backend & AI Integration:** Node.js, Express.js, RESTful APIs, Tesseract.js (OCR), Google Gemini API  
 **DevOps, Tools & Architecture:** GitHub Actions (CI/CD workflows), SonarCloud (SAST, Security Hotspots), Git, Monorepo Architecture, Component-driven design  
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valentin222259&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Valentin's GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin222259&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Valentin's Top Languages" height="192px"/>
-</div>
-
 ## 🛠️ What I Do
 
 - **Full-Stack Development:** Build responsive React applications connected to robust Node.js backends.
