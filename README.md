@@ -1,42 +1,44 @@
-# Valentin
+# Hi there, I'm Valentin! 👋
 
-Frontend developer focused on building responsive, performant web applications with clean code and attention to user experience. Currently studying at Politehnica University of Timișoara.
+**Software Developer | React, Node.js & TypeScript | AI Integration | CI/CD Enthusiast**
 
-## About
+Currently studying Systems Engineering at Politehnica University of Timișoara, I am a highly motivated Software Developer focused on building modern, performant, and intelligent web applications. 
 
-I specialize in crafting intuitive interfaces and scalable frontend architectures. My focus is on writing maintainable code, optimizing performance, and collaborating effectively with backends and design teams to ship polished products.
+## 🚀 About Me
 
-## Tech Stack
+I specialize in full-stack development and modern web architectures. Recently, my focus has expanded beyond crafting intuitive interfaces into **backend processing, AI integration (Google Gemini API, OCR), and DevOps automation**. I am passionate about writing clean, secure code and have hands-on experience in architecting enterprise-level CI/CD pipelines ensuring code security via SonarCloud Quality Gates.
 
-**Core**  
-React, TypeScript, JavaScript, HTML5, CSS3
+## 💻 Tech Stack
 
-**Frameworks & Libraries**  
-Next.js, Tailwind CSS, responsive design
+**Frontend:** React 18, TypeScript, JavaScript (ES6+), Tailwind CSS, Vite, HTML5, CSS3  
+**Backend & AI Integration:** Node.js, Express.js, RESTful APIs, Tesseract.js (OCR), Google Gemini API  
+**DevOps, Tools & Architecture:** GitHub Actions (CI/CD workflows), SonarCloud (SAST, Security Hotspots), Git, Monorepo Architecture, Component-driven design  
 
-**Tools & Workflow**  
-Git, modern development tooling, component-driven architecture
+## 📊 GitHub Analytics
 
-## What I Do
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Valentin222259&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Valentin's GitHub Stats" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin222259&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Valentin's Top Languages" height="192px"/>
+</div>
 
-- Build responsive React applications with modern tooling and best practices
-- Write clean, maintainable TypeScript/JavaScript code
-- Optimize frontend performance and user experience
-- Design and implement reusable component systems
-- Collaborate with backend teams and designers to deliver cohesive products
+## 🛠️ What I Do
 
-## Currently Learning
+- **Full-Stack Development:** Build responsive React applications connected to robust Node.js backends.
+- **AI & Automation:** Integrate artificial intelligence models to extract, structure, and analyze complex data from raw inputs.
+- **DevOps & QA:** Architect custom parallel CI/CD pipelines to automatically build, test, and analyze code for zero technical debt.
+- **UI/UX Implementation:** Translate complex Figma designs into pixel-perfect, mobile-first interfaces.
 
-Advanced performance optimization, state management patterns, modern frontend architecture
+## 🌱 Currently Learning
 
-## Let's Connect
+Advanced DevOps workflows, Cloud Deployments, and deeper integration of Machine Learning models in web environments.
 
-I'm always interested in discussing interesting projects, technical challenges, or collaboration opportunities.
+## 📫 Let's Connect
+
+I'm always open to discussing interesting projects, technical challenges, or Junior Software Developer roles!
 
 - **Email** — [ardeleanvalentin490@yahoo.com](mailto:ardeleanvalentin490@yahoo.com)
-- **GitHub** — [github.com/Valentin222259](https://github.com/Valentin222259)
 - **LinkedIn** — [linkedin.com/in/valentin-ardelean-dev](https://www.linkedin.com/in/valentin-ardelean-dev/)
+- **GitHub** — [github.com/Valentin222259](https://github.com/Valentin222259)
 
 ---
-
-Crafting software with precision and care.
+*Crafting software with precision, intelligence, and care.*
