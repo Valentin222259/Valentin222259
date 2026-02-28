@@ -31,7 +31,6 @@ I'm always open to discussing interesting projects, technical challenges, or Jun
 
 - **Email** — [ardeleanvalentin490@yahoo.com](mailto:ardeleanvalentin490@yahoo.com)
 - **LinkedIn** — [linkedin.com/in/valentin-ardelean-dev](https://www.linkedin.com/in/valentin-ardelean-dev/)
-- **GitHub** — [github.com/Valentin222259](https://github.com/Valentin222259)
 
 ---
 *Crafting software with precision, intelligence, and care.*
